@@ -1,0 +1,37 @@
+Curso Linux Foundation WEF
+https://trainingportal.linuxfoundation.org/learn/course/fundamentals-of-quantum-computing-lfq101/
+
+Grover's Algorythm
+http://twistedoakstudios.com/blog/Post2644_grovers-quantum-search-algorithm
+
+Malware detection QML 
+https://github.com/D3Rkness/Malware-Detection-A-Quantum-Machine-Learning-Approach
+
+QSVM 
+https://arxiv.org/pdf/1804.11326.pdf
+
+Superdense Coding
+https://qexperiments.blogspot.com/2020/07/quantum-malware-hacking-quantum-dense.html
+
+Post Quantum NIST
+https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/faqs
+https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization/round-3-submissions
+
+Vulnerabilidades en QRNG
+https://eprint.iacr.org/2017/842.pdf
+https://www.youtube.com/watch?v=UR5Tb8VtQds
+
+Vulnerabilidades en QKD
+https://iopscience.iop.org/article/10.1088/1367-2630/aade06
+https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/
+https://www.nature.com/articles/nphoton.2010.214
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.062329
+https://www.idquantique.com/quantum-safe-security/quantum-key-distribution/
+https://www.ncsc.gov.uk/whitepaper/quantum-security-technologies
+
+Richard Feynman hablando de cuántica
+https://www.youtube.com/watch?v=xdZMXWmlp9g
+
+Labs IBM
+https://lab.quantum-computing.ibm.com/
+https://quantum-computing.ibm.com/composer
